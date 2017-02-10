@@ -34,7 +34,7 @@ img { max-width: 100%; }
 
 .description-text
 {
-    font-size: 12px;
+    font-size: 14px !important; 
 }
 .top-content {
     margin: 0 auto;
