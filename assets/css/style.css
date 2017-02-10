@@ -32,6 +32,10 @@ img { max-width: 100%; }
 
 /***** Top content *****/
 
+.description-text
+{
+    font-size: 12px;
+}
 .top-content {
     margin: 0 auto;
     text-align: left;
