@@ -190,7 +190,10 @@ img { max-width: 100%; }
 	margin-top: 40px;
 }
 
-
+.homescreen-image
+{
+    max-width: 300px !important;
+}
 /***** Footer *****/
 
 footer {
